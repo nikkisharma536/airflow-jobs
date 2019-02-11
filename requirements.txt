@@ -1,0 +1,5 @@
+boto3
+paramiko
+uuid
+apache-airflow==1.10.0
+hmsclient
